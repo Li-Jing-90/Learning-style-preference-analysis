@@ -1,4 +1,4 @@
-### Learning-style-preference-analysis
+## Learning-style-preference-analysis
 ### Objective:
 The aim of this study was to investigate whether instruction based on a person’s learning-style preferences would improve retention of the material taught
 ### 1.1 Study desgin and Data: 
